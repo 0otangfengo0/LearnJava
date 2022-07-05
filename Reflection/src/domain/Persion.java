@@ -45,4 +45,14 @@ public class Persion {
         this.age = age;
     }
 
+    public void eat(){
+        System.out.println("eat");
+    }
+    public void eat(String s){
+        System.out.println("eat"+s);
+    }
+
+    private void drink(){
+        System.out.println("drink");
+    }
 }

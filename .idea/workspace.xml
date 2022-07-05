@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9815398-cb2f-4570-9385-653ec4913a5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Reflection/Reflection.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reflection/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Reflection/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reflection/src/domain/Persion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reflection/src/domain/Persion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +49,24 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\7月学习\LearnJava\Properties\src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="reflect" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.demo03">
+  <component name="RunManager" selected="Application.ReflectTest">
+    <configuration name="ReflectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reflect.ReflectTest" />
+      <module name="Reflection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Reflectdemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="reflect.Reflectdemo1" />
       <module name="Reflection" />
@@ -90,19 +106,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reflect.demo4" />
+      <module name="Reflection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReflectTest" />
+        <item itemvalue="Application.demo4" />
         <item itemvalue="Application.demo03" />
         <item itemvalue="Application.demo2" />
         <item itemvalue="Application.Reflectdemo1" />
@@ -117,7 +150,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656921262414</updated>
-      <workItem from="1656921266899" duration="5756000" />
+      <workItem from="1656921266899" duration="6038000" />
+      <workItem from="1656985552935" duration="4755000" />
     </task>
     <servers />
   </component>
