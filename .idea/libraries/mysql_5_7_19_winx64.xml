@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mysql-5.7.19-winx64">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Web/mysql-5.7.19-winx64.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
