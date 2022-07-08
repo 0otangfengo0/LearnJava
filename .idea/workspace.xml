@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9815398-cb2f-4570-9385-653ec4913a5f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3c8f48a3-d86c-45f3-be53-32eaf742267c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/3c8f48a3-d86c-45f3-be53-32eaf742267c.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reflection/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Reflection/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBC/笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC/笔记.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +39,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -54,10 +58,11 @@
       <recent name="D:\7月学习\LearnJava\Properties\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
       <recent name="reflect" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JDBCTest">
+  <component name="RunManager" selected="Application.JDBCdemo1">
     <configuration name="JDBCTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JDBCTest" />
       <module name="JDBC" />
@@ -65,47 +70,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JDBCTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDBCTest01" />
+      <module name="JDBC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDBCdemo" />
+      <module name="JDBC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCdemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDBCdemo1" />
+      <module name="JDBC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReflectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="reflect.ReflectTest" />
-      <module name="Reflection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="reflect.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="demo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reflect.demo03" />
-      <module name="Reflection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="reflect.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reflect.demo2" />
-      <module name="Reflection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="reflect.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reflect.demo4" />
       <module name="Reflection" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JDBCdemo1" />
         <item itemvalue="Application.JDBCTest" />
+        <item itemvalue="Application.JDBCdemo" />
+        <item itemvalue="Application.JDBCTest01" />
         <item itemvalue="Application.ReflectTest" />
-        <item itemvalue="Application.demo4" />
-        <item itemvalue="Application.demo03" />
-        <item itemvalue="Application.demo2" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +135,9 @@
       <updated>1656921262414</updated>
       <workItem from="1656921266899" duration="6038000" />
       <workItem from="1656985552935" duration="6386000" />
-      <workItem from="1657008512574" duration="4640000" />
+      <workItem from="1657008512574" duration="4810000" />
+      <workItem from="1657068884971" duration="8276000" />
+      <workItem from="1657269948735" duration="2236000" />
     </task>
     <servers />
   </component>
@@ -162,6 +151,11 @@
           <properties class="java.lang.IllegalAccessException" package="java.lang" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JDBC/src/JDBCdemo1.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
