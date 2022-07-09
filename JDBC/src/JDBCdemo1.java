@@ -26,6 +26,7 @@ public class JDBCdemo1 {
         Boolean loginSuccess =  login(userLoginInf);
         //输出结果信息
         System.out.println(loginSuccess ? "登录成功" : "登录失败");
+
     }
 
     /**
